@@ -4,16 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
     <title>Weather App</title>
 </head>
 <body>
-    <h1>
-        Weather App for MLH LHD Build
-    </h1>
+    <div class="center-on-page">  <h1>Weather in a City</h1>
     <p>
         <form method="post">
-            <input type="text" name="city" placeholder="Enter a city">
-            <input type="submit" value="Submit">
+            <input type="text" name="city" placeholder="Enter a city" class="box">
+            <button type="submit" class="btn">
+                    Go
+                </button>
         </form>
     </p>
 </body>
