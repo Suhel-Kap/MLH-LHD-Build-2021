@@ -7,3 +7,5 @@ This web app is built using HTML, Bootstrap, and Python.
 When you run the app, you will see a form with a text input for the city name.
 
 When you submit the form, the app will get the weather for the city and display it in the browser.
+
+You can check out the app [here](https://mlh-local-hack-day.github.io/weather-app/).
