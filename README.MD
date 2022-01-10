@@ -8,4 +8,4 @@ When you run the app, you will see a form with a text input for the city name.
 
 When you submit the form, the app will get the weather for the city and display it in the browser.
 
-You can check out the app [here](https://mlh-local-hack-day.github.io/weather-app/).
+You can check out the app [here](https://mlh-lhd-build-2021.el.r.appspot.com/).
